@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Pet Tracker",
+  "feed": "Feed",
+  "startWalk": "Start Walk",
+  "endWalk": "End Walk",
+  "meds": "Medication",
+  "vet": "Vet",
+
+  "newPet": "New Pet",
+  "petProfile": "Pet Profile",
+  "deletePet": "Delete Pet",
+
+  "takePhoto": "Take Photo",
+  "chooseGallery": "Choose from Gallery",
+  "cancel": "Cancel"
+}

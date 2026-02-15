@@ -1,0 +1,18 @@
+{
+  "@@locale": "id",
+
+  "appTitle": "Pelacak Hewan",
+  "feed": "Makan",
+  "startWalk": "Mulai Jalan",
+  "endWalk": "Selesai Jalan",
+  "meds": "Obat",
+  "vet": "Dokter Hewan",
+
+  "newPet": "Hewan Baru",
+  "petProfile": "Profil Hewan",
+  "deletePet": "Hapus Hewan",
+
+  "takePhoto": "Ambil Foto",
+  "chooseGallery": "Pilih dari Galeri",
+  "cancel": "Batal"
+}
