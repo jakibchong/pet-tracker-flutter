@@ -1,4 +1,4 @@
-# Android App Prototype
+# Pet-Tracker-Flutter
 
 A native Android application prototype built to demonstrate scalable mobile app architecture, profile management systems, and real-world application structure.
 
